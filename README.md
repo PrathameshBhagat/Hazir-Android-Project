@@ -2,6 +2,7 @@
 A mini Project made for a small startup called hazirs(hariz) unfortuntely the deal didn't end smooth and was closed in 3 days.  <br>
 So this is an app was made in about 3 days (or less) with no back-end just graphics and Google Signin.  <br>
 This **_repository does not have any code , code is in a pivate repo_** contact for the code.(+91 70580 31648) <br>
+You can download the app from the APK in [here](https://github.com/PrathameshBhagat/Demo-Hazir-Project/releases/tag/0.1.1)
 >**_Please use landscape mode if viewing in a smart phone_**
   
  <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/dfe669f9-0e56-4c2d-b860-b58cdad260e9" style="height:100vh;width:25vw">
