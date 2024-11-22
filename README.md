@@ -7,13 +7,13 @@ This **_repository does not have any code , code is in a private repository_**. 
   
 >**_Please use landscape mode if viewing in a smart phone_**
   
- <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/dfe669f9-0e56-4c2d-b860-b58cdad260e9" style="height:100vh;width:25vw">
+ <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/dfe669f9-0e56-4c2d-b860-b58cdad260e9" style="height:20vh;width:20vw">
 
-  <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/6147424c-4d2d-43e9-a716-f0cc4fe1eee6" style="height:100vh;width:25vw">
+  <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/6147424c-4d2d-43e9-a716-f0cc4fe1eee6" style="height:20vh;width:20vw">
   
- <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/4bfeaa32-60be-41d1-b9b3-0a5478539413" style="height:100vh;width:25vw">
+ <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/4bfeaa32-60be-41d1-b9b3-0a5478539413" style="height:20vh;width:20vw">
 
-  <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/d38085d7-bad3-4975-be90-d11345072ff2" style="height:100vh;width:25vw">
+  <img src="https://github.com/PrathameshBhagat/Demo-Hazir-Project/assets/90595097/d38085d7-bad3-4975-be90-d11345072ff2" style="height:20vh;width:20vw">
 
   # Note 
 Full video is available in file named `Android_forces....Screen`<b>`.mp4`</b>` .   
